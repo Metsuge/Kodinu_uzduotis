@@ -1,5 +1,5 @@
-import React from 'react'
-import  '../StyleIndia.css'
+import React from 'react';
+import  '../StyleIndia.css';
 
 const India = () => {
     return (<>

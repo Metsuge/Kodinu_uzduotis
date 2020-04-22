@@ -12,6 +12,7 @@
 
 .pic-list li{
     list-style-type: none;
+    padding-top: 20px;
     
 }
 
@@ -36,22 +37,25 @@
     background-size: cover;
     background-image: url('./images/big-pic.svg'); 
     grid-area: bigpic;
-    width: 549px;
-    height: 445px;
+    width: 546px;
+    height: 519px;
+    margin-left: -2rem;
+    margin-top: -10px;
     
 }
 
 .main-india {
-    padding:20px 30px 38px 30px; 
+    padding:0px 30px 0px 30px; 
     background-color:rgb(255, 253, 253) ;
-    height: auto;
-    width: auto;
+    height: 490px;
+    width: 91%;
     margin-left:20px;
     border: 0.5px rgb(156, 156, 156) solid;
     border-radius: 9px;
     display: grid;
     grid-template-columns: repeat(3, 265px);
-    grid-template-rows: repeat(3, 143px);
+    grid-template-rows: repeat(3, 163px);
+    column-gap: 0px;
     grid-template-areas: "pic bigpic bigpic"
                          "pic bigpic bigpic" 
                          "pic bigpic bigpic"
