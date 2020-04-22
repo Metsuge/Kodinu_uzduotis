@@ -1,0 +1,61 @@
+
+.india-img {
+    float: left;
+    padding-right:50px;
+    width: 186px;
+    height: 121px;
+    background-size: cover;
+    background-image: url('./images/off-road.svg');
+    padding-bottom: 40px;
+    margin: -15px -45px 0px -45px;
+}
+
+.pic-list li{
+    list-style-type: none;
+    
+}
+
+
+.img1{
+    background-image: url('./images/waterscape.svg');
+    grid-area: pic;
+    
+}
+
+.img2{
+    background-image: url('./images/desert.svg');
+    grid-area: pic;
+}
+
+.img3{
+    background-image: url('./images/elephant.svg');
+    grid-area: pic;
+}
+
+.big-pic{
+    background-size: cover;
+    background-image: url('./images/big-pic.svg'); 
+    grid-area: bigpic;
+    width: 549px;
+    height: 445px;
+    
+}
+
+.main-india {
+    padding:20px 30px 38px 30px; 
+    background-color:rgb(255, 253, 253) ;
+    height: auto;
+    width: auto;
+    margin-left:20px;
+    border: 0.5px rgb(156, 156, 156) solid;
+    border-radius: 9px;
+    display: grid;
+    grid-template-columns: repeat(3, 265px);
+    grid-template-rows: repeat(3, 143px);
+    grid-template-areas: "pic bigpic bigpic"
+                         "pic bigpic bigpic" 
+                         "pic bigpic bigpic"
+                         ;
+};
+
+

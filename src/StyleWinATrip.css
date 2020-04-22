@@ -1,0 +1,44 @@
+
+.text-trip-win{
+    color:#F0F0F0;
+    margin-bottom: 25px;
+    margin-top: 5px
+}
+.word-featured-win{
+    opacity:50%;
+    color: #F0F0F0;
+    margin-bottom:0px;
+}
+
+ 
+.text-trip-win h1{
+    margin-top:0;
+    font-weight:400;
+    margin-bottom: 5px;
+}
+
+
+
+.main-winatrip {
+    border-radius: 9px;
+    padding:20px 45px 20px 45px;
+    
+    background-image: url('./images/winatrip.svg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    opacity:80%;
+    
+}
+
+
+.button-entry{
+    font-size: medium;
+    border-radius: 27px ;
+    border: none;
+    padding:10px 30px 10px 30px;
+    background-color: #487682;
+    color:#F0F0F0;
+    font-weight: bolder;
+};
+

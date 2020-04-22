@@ -1,0 +1,61 @@
+* {
+    font-family: acumin-pro, sans-serif;
+}
+.component-text{
+    padding-top: 7px;
+    list-style-type: none;
+}
+
+
+#popular-full-list{
+    margin-bottom: 55px;
+}
+
+#word-full-list{
+    float: right;
+    list-style-type:none;
+    font-size: smaller;
+    color:rgb(165, 164, 164);
+    font-size: 12px;
+    opacity: 80%;
+    
+}
+
+#word-public{
+    float: left;
+    list-style-type:disc;
+    font-size: 25px;
+    margin-left: 35px;
+    
+}
+
+#madag-text{
+    font-size: 15px;
+    padding-right: 15px;
+}
+
+#off-road{
+    font-size: 19px;
+    padding: 3px 0 8px 0;
+}
+#reviews{
+    font-size: small;
+    color:rgb(165, 164, 164);
+    font-size: 12px;
+    opacity: 80%;
+}
+
+.main-popular {
+    padding:20px 30px 38px 30px;
+    background-color:rgb(255, 253, 253) ;
+    height: auto;
+    width: auto;
+    margin-left:20px;
+    border: 0.5px rgb(156, 156, 156) solid;
+    border-radius: 9px;
+};
+
+
+
+
+

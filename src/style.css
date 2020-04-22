@@ -1,0 +1,114 @@
+
+
+html{
+    
+    width: 1180px;
+    margin:auto;
+}
+#main-content {
+    font-family: acumin-pro, sans-serif;
+    background-color: #FCFCFC;
+    display: grid;
+    grid-template-columns:repeat(3, 412px);
+    grid-template-rows: repeat(5, 280px) ;
+    grid-template-areas: "hd hd    hd"
+                         "recent recent trip"
+                         "recent recent subs"
+                         " popular india india "
+                         ;
+  
+    grid-row-gap: 10px;
+    padding: 40px 0 0 0;
+    margin:0 auto;
+    width: 100%;
+ 
+}
+
+
+
+footer{
+    margin:0 auto;
+    flex-shrink: 0;
+    bottom: 0;
+    height: 2.5rem;
+}
+
+
+.featured {
+    grid-area: hd;
+    
+}
+
+.win-a-trip  {
+    grid-area: trip;
+}
+
+.subcribe{
+    grid-area: subs;
+}
+.mostrecent{
+    grid-area: recent;
+}
+
+.popular {
+    grid-area: popular;
+}
+
+.india{
+    grid-area: india;
+}
+
+.footer-text, .links{
+    color: #A6A6A6 ;
+}
+#footer-left{
+    float:left;
+}
+
+
+.footer li{
+    padding: 2px 8px 2px 8px;
+    
+}
+
+
+.footer a{
+    padding-right: 2px;
+    padding-bottom:10px ;
+}
+.nav ul{
+    float: right;
+    list-style: none;
+    padding:0 10px 0 10px;
+   
+}
+.header {
+   
+    text-align: center;
+    margin:0 auto;
+    
+}
+
+.header-text li, .header-name li{
+    float: right;
+    list-style: none;
+    margin: 0 30px 0 0;
+    font-size: 16px;
+    font-weight: 200; 
+   
+    
+}
+.header-name li {
+    float: left;
+    list-style: none;
+    margin: 0 30px 0 60px;
+}
+
+.explord li {
+    list-style-type:disc;
+    float: left; 
+    margin: 0 40px 0 0;
+    
+    font-weight: 600;
+};
+
