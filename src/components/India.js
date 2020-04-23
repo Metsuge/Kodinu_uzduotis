@@ -6,9 +6,9 @@ const India = () => {
         <div className='main-india'>
             <div className='pic-list'>
                 <ul>
-                <li><div className='india-img img1'></div></li>
-                <li><div className='india-img img2'></div></li>
-                <li><div className='india-img img3'></div></li>
+                <li><div className='india-img img1india'></div></li>
+                <li><div className='india-img img2india'></div></li>
+                <li><div className='india-img img3india'></div></li>
                 <li></li>
                 </ul>
             </div>

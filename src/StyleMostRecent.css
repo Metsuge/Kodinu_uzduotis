@@ -37,6 +37,10 @@
     
 }
 
+#word-public-trend::marker{
+    color:#5CB1C6;
+}
+
 #madag-text{
     font-size: 15px;
     padding-right: 15px;

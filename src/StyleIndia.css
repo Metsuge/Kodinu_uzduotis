@@ -17,18 +17,18 @@
 }
 
 
-.img1{
+.img1india{
     background-image: url('./images/waterscape.svg');
     grid-area: pic;
     
 }
 
-.img2{
+.img2india{
     background-image: url('./images/desert.svg');
     grid-area: pic;
 }
 
-.img3{
+.img3india{
     background-image: url('./images/elephant.svg');
     grid-area: pic;
 }

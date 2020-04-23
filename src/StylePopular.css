@@ -28,6 +28,9 @@
     margin-left: 35px;
     
 }
+#word-public::marker{
+    color:#5CB1C6;
+}
 
 #madag-text{
     font-size: 15px;

@@ -1,0 +1,106 @@
+* {
+    font-family: acumin-pro, sans-serif;
+}
+.trend-container{
+    display: flex;
+   
+}
+.component-trend{
+    padding-top: 7px;
+    display: block;
+}
+
+.trend-content-list li{
+    list-style-type: none;
+}
+
+.trend-content-list{
+    
+    width:100%;
+
+}
+
+.trend-text{
+    margin-top: 15px;
+}
+
+#public-full-list{
+    margin-bottom: 75px;
+}
+
+
+
+#word-public-trend{
+    margin-left:70px ;
+    list-style-type:disc;
+    font-size: 25px;
+    
+}
+
+#word-public-trend::marker{
+    color:#5CB1C6;
+}
+#madag-text{
+    font-size: 15px;
+    padding-right: 15px;
+}
+
+#title-trend{
+    font-size: 19px;
+    padding: 3px 0 8px 0;
+    color:#404040;
+}
+
+.img-trend{
+    
+   
+    width: 377px;
+    height: 156px;
+    
+}
+
+.img1{
+   
+    background-image: url('./images/dogyear.svg');
+    background-size: cover;
+  
+}
+
+.img2{
+    
+    background-image: url('./images/trendingelephant.svg');
+    background-size: cover;
+    
+}
+
+.img3{
+    
+    background-image: url('./images/rubalkhali.svg');
+    background-size: cover;
+    
+}
+.main-trending {
+    
+    background-color:rgb(255, 253, 253) ;
+    height: auto;
+    width: auto;
+    margin: 50px 0px 50px 0px;
+
+};
+
+
+
+.word-featured{
+    opacity:50%;
+    color: #F0F0F0;
+    margin-bottom:0px;
+};
+
+.word-published{
+    color:#F0F0F0;
+    font-size: 12px;
+    opacity: 50%;
+};
+
+
+

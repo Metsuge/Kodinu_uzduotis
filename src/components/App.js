@@ -7,6 +7,7 @@ import WinATrip from './WinATrip';
 import Subcribe from './Subscribe';
 import Popular from './Popular';
 import India from './India';
+import Trending from './Trending';
 
 
 export class App extends Component {
@@ -27,6 +28,8 @@ export class App extends Component {
                 <div className='subscibe'><Subcribe /></div> 
                 <div className='popular'><Popular /></div>
                 <div className='india'><India /></div>
+                
+                <div className='trending'><Trending /></div>
             </body>
             <footer className='footer'>
                 <div className='nav'>

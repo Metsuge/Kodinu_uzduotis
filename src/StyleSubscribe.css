@@ -18,6 +18,10 @@ input{
     margin-top: 5px;
     
 }
+
+.text-trip li::marker{
+    color:#5CB1C6;
+}
 .word-featured{
     opacity:50%;
     color: #F0F0F0;
