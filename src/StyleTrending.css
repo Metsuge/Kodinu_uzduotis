@@ -91,7 +91,7 @@
 
 
 .word-featured{
-    opacity:50%;
+    opacity:0.5;
     color: #F0F0F0;
     margin-bottom:0px;
 };
@@ -99,7 +99,7 @@
 .word-published{
     color:#F0F0F0;
     font-size: 12px;
-    opacity: 50%;
+    opacity: 0.5;
 };
 
 

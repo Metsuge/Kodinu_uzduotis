@@ -4,8 +4,8 @@
     margin-bottom: 25px;
     margin-top: 5px
 }
-.word-featured-win{
-    opacity:50%;
+.word-win{
+    opacity:0.5;
     color: #F0F0F0;
     margin-bottom:0px;
 }
@@ -27,7 +27,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: auto;
-    opacity:80%;
+    opacity:0.8;
     
 }
 

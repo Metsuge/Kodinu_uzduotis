@@ -12,7 +12,7 @@ const MostRecent = () => {
         </div>
         <div className='recent-content-list' >
            <div className='text-container' >
-                <div id='img-recent' ></div>
+                <div className='img-recent img1r' ></div>
             
                 <div className='component-text'>
                     <li id='reviews'>TRAVEL REVIEWS</li>
@@ -24,7 +24,7 @@ const MostRecent = () => {
         </div>
         <div className='recent-content-list' >
            <div className='text-container' >
-                <div id='img1-recent' ></div>
+                <div className='img-recent img2r' ></div>
             
                 <div className='component-text'>
                     <li id='reviews'>TRIP SUGGESTIONS</li>
@@ -36,7 +36,7 @@ const MostRecent = () => {
         </div>
         <div className='recent-content-list' >
            <div className='text-container' >
-                <div id='img2-recent' ></div>
+                <div className='img-recent img3r' ></div>
             
                 <div className='component-text'>
                     <li id='reviews'>TRAVEL REVIEWS</li>

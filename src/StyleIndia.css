@@ -13,9 +13,12 @@
 .pic-list li{
     list-style-type: none;
     padding-top: 20px;
-    
+   
 }
 
+.pic-list {
+     margin-left: 36px;
+}
 
 .img1india{
     background-image: url('./images/waterscape.svg');
@@ -55,7 +58,7 @@
     display: grid;
     grid-template-columns: repeat(3, 265px);
     grid-template-rows: repeat(3, 163px);
-    column-gap: 0px;
+    
     grid-template-areas: "pic bigpic bigpic"
                          "pic bigpic bigpic" 
                          "pic bigpic bigpic"

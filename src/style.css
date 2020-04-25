@@ -1,20 +1,21 @@
 
-
+*{
+    font-family: acumin-pro, sans-serif;
+}
 html{
-    
     width: 1180px;
     margin:auto;
 }
 #main-content {
-    font-family: acumin-pro, sans-serif;
+    
     background-color: #FCFCFC;
     display: grid;
     grid-template-columns:repeat(3, 412px);
-    grid-template-rows: repeat(280px, 280px, 280px, 280px. 320px, 320px) ;
-    grid-template-areas: "hd hd    hd"
+    grid-template-rows: repeat(280px, 280px, 280px, 280px, 320px, 320px) ;
+    grid-template-areas: "hd hd hd"
                          "recent recent trip"
                          "recent recent subs"
-                         " popular india india "
+                         "popular india india "
                          "trend trend trend"
                          "trend trend trend"
                          ;

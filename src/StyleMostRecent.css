@@ -1,20 +1,7 @@
 * {
     font-family: acumin-pro, sans-serif;
 }
-.component-text{
-    padding-top: 7px;
-}
 
-.recent-content-list li{
-    list-style-type: none;
-}
-
-.recent-content-list{
-    
-    margin-top:50px;
-    width:100%;
-
-}
 
 #public-full-list{
     margin-bottom: 75px;
@@ -26,7 +13,7 @@
     font-size: smaller;
     color:rgb(165, 164, 164);
     font-size: 12px;
-    opacity: 80%;
+    opacity: 0.8;
     
 }
 
@@ -44,56 +31,60 @@
 #madag-text{
     font-size: 15px;
     padding-right: 15px;
+    list-style-type: none;
 }
 
 #off-road{
     font-size: 19px;
     padding: 3px 0 8px 0;
+    list-style-type: none;
 }
 #reviews{
     font-size: small;
     color:rgb(165, 164, 164);
     font-size: 12px;
-    opacity: 80%;
+    opacity: 0.8;
+    list-style-type: none;
 }
-
-
-#img-recent{
+ 
+.img-recent{
     float: left;
     padding-right:50px;
     width: 145px;
     height: 145px;
+    margin-top: -10px;
+    margin-left: -45px;
+    margin-right: 20px;
+}
+
+.img1r{
     background-image: url('./images/off-road.svg');
     background-size: cover;
-    margin-top: -10px;
-    margin-left: -45px;
-    margin-right: 20px;
 }
 
-#img1-recent{
-    float: left;
-    padding-right:50px;
-    width: 145px;
-    height: 145px;
+.img2r{
     background-image: url('./images/architect.svg');
     background-size: cover;
-    margin-top: -10px;
-    margin-left: -45px;
-    margin-right: 20px;
 }
 
-#img2-recent{
-    float: left;
-    padding-right:50px;
-    width: 145px;
-    height: 145px;
+.img3r{
     background-image: url('./images/iceland.svg');
     background-size: cover;
-    margin-top: -10px;
-    margin-left: -45px;
-    margin-right: 20px;
+
 }
 
+.component-text{
+    padding-top: 7px;
+}
+
+
+
+.recent-content-list{
+    
+    margin-top:50px;
+    width:100%;
+
+}
 .main-recent {
     padding:20px 30px 20px 30px;
     background-color:rgb(255, 253, 253) ;
@@ -103,17 +94,11 @@
 
 };
 
-.word-featured{
-    opacity:50%;
-    color: #F0F0F0;
-    margin-bottom:0px;
-};
 
 .word-published{
     color:#F0F0F0;
     font-size: 12px;
-    opacity: 50%;
+    opacity: 0.5;
 };
-
 
 

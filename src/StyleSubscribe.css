@@ -22,15 +22,11 @@ input{
 .text-trip li::marker{
     color:#5CB1C6;
 }
-.word-featured{
-    opacity:50%;
-    color: #F0F0F0;
-    margin-bottom:0px;
-}
+
 .word-published{
     color:#F0F0F0;
     font-size: 12px;
-    opacity: 50%;
+    opacity: 0.5;
     
 }
  
@@ -48,7 +44,7 @@ input{
     padding:20px 45px 20px 45px;
     background-color: rgb(245, 244, 244) ;
     height: auto;
-    opacity:80%;
+    opacity:0.8;
     
 }
 
