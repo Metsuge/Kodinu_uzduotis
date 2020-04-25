@@ -1,52 +1,5 @@
-* {
-    font-family: acumin-pro, sans-serif;
-}
 
 
-#public-full-list{
-    margin-bottom: 75px;
-}
-
-#word-full-list{
-    float: right;
-    list-style-type:none;
-    font-size: smaller;
-    color:rgb(165, 164, 164);
-    font-size: 12px;
-    opacity: 0.8;
-    
-}
-
-#word-public{
-    float: left;
-    list-style-type:disc;
-    font-size: 25px;
-    
-}
-
-#word-public-trend::marker{
-    color:#5CB1C6;
-}
-
-#madag-text{
-    font-size: 15px;
-    padding-right: 15px;
-    list-style-type: none;
-}
-
-#off-road{
-    font-size: 19px;
-    padding: 3px 0 8px 0;
-    list-style-type: none;
-}
-#reviews{
-    font-size: small;
-    color:rgb(165, 164, 164);
-    font-size: 12px;
-    opacity: 0.8;
-    list-style-type: none;
-}
- 
 .img-recent{
     float: left;
     padding-right:50px;
@@ -70,35 +23,70 @@
 .img3r{
     background-image: url('./images/iceland.svg');
     background-size: cover;
+}
 
+#madag-text{
+    font-size: 15px;
+    padding-right: 15px;
+    list-style-type: none;
+}
+
+#off-road{
+    font-size: 19px;
+    padding: 3px 0 8px 0;
+    list-style-type: none;
+}
+#reviews{
+    font-size: small;
+    color:rgb(165, 164, 164);
+    font-size: 12px;
+    opacity: 0.8;
+    list-style-type: none;
+}
+
+#public-full-list{
+    margin-bottom: 75px;
+}
+
+#word-full-list{
+    float: right;
+    list-style-type:none;
+    font-size: smaller;
+    color:rgb(165, 164, 164);
+    font-size: 12px;
+    opacity: 0.8;
+}
+
+#word-public{
+    float: left;
+    list-style-type:disc;
+    font-size: 25px;
+}
+
+#word-public-trend::marker{
+    color:#5CB1C6;
 }
 
 .component-text{
     padding-top: 7px;
 }
 
-
-
-.recent-content-list{
-    
+.recent-content-list{ 
     margin-top:50px;
     width:100%;
-
 }
+
 .main-recent {
     padding:20px 30px 20px 30px;
     background-color:rgb(255, 253, 253) ;
     height: auto;
     width: auto;
     margin-left:20px;
-
-};
-
+}
 
 .word-published{
     color:#F0F0F0;
     font-size: 12px;
     opacity: 0.5;
 };
-
 
