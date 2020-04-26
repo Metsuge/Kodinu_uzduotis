@@ -9,7 +9,7 @@ const Subscribe = () => {
         <p className='text-trip'>
         <li>Subscribe to travel news</li>
             Don't miss our weekly newsletter with lots of guides and articles!
-            <br/><input type="email" placeholder="Insert your email here..."></input>
+            <br/><input className='input' type="email" placeholder="Insert your email here..."></input>
         </p>
 
         <button className='button-subscribe'>Subscribe</button>

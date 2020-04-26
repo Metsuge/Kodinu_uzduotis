@@ -1,3 +1,4 @@
+
 .img1india{
     background-image: url('./images/waterscape.svg');
     grid-area: pic;
@@ -12,6 +13,7 @@
     background-image: url('./images/elephant.svg');
     grid-area: pic;
 }
+
 .india-img {
     float: left;
     padding-right:50px;
@@ -25,14 +27,11 @@
 .pic-list li{
     list-style-type: none;
     padding-top: 20px;
-   
 }
 
 .pic-list {
-     margin-left: 36px;
+    margin-left: 36px;
 }
-
-
 
 .big-pic{
     background-size: cover;
@@ -42,7 +41,6 @@
     height: 519px;
     margin-left: -2rem;
     margin-top: -10px;
-    
 }
 
 .main-india {
@@ -61,6 +59,6 @@
                          "pic bigpic bigpic" 
                          "pic bigpic bigpic"
                          ;
-};
+}
 
 

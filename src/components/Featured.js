@@ -1,5 +1,6 @@
 import React from 'react';
 import '../StyleFeatured.css';
+import '../StyleResponsive.css';
 
 const Featured = () => {
     return(<>

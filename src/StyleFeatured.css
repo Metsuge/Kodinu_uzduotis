@@ -1,14 +1,4 @@
-.main-featured {
-    border-radius: 9px;
-    padding:20px 45px 20px 45px;
-    background-image: url('./images/image.svg') ;
-    background-repeat: no-repeat;
-    background-size: cover;
-    opacity: 0.8;
-    max-height: 250px;
-    width:auto;
-    margin: 0px 12px 35px 20px; 
-}
+
 
 .word-featured{
     opacity:0.7;
@@ -68,5 +58,16 @@ h2{
     color:#F0F0F0;
     font-weight: bolder;
     margin-left: 15px;
-};
+}
 
+.main-featured {
+    border-radius: 9px;
+    padding:20px 45px 20px 45px;
+    background-image: url('./images/image.svg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    max-height: 250px;
+    width:auto;
+    margin: 0px 12px 35px 20px; 
+}

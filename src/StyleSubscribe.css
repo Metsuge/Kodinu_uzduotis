@@ -1,17 +1,16 @@
-input{
+.input{
     width:95%;
     margin-top: 20px;
     padding-left:10px;
     border-radius: 5px;
     height: 38px;
     border-style: solid;
-    
 }
 
 ::placeholder {
     font-size: 15px;
-    
 }
+
 .text-trip{
     color:#404040;
     margin-bottom: 25px;
@@ -27,7 +26,6 @@ input{
     color:#F0F0F0;
     font-size: 12px;
     opacity: 0.5;
-    
 }
  
 .text-trip li{
@@ -37,7 +35,15 @@ input{
     font-size: 26px;
 }
 
-
+.button-subscribe{
+    font-size: 17px;
+    border-radius: 27px ;
+    border: none;
+    padding:10px 40px 10px 40px;
+    background-image: linear-gradient(to right, #6197A5, #58C3DD);
+    color:#F0F0F0;
+    font-weight: bold;
+}
 
 .main-subscribe {
     border-radius: 9px;
@@ -45,18 +51,4 @@ input{
     background-color: rgb(245, 244, 244) ;
     height: auto;
     opacity:0.8;
-    
 }
-
-
-.button-subscribe{
-    font-size: 17px;
-    border-radius: 27px ;
-    border: none;
-    padding:10px 40px 10px 40px;
-    /* background-image:linear-gradient (to right, rgb(98, 148, 162), rgb(88,195,221) ); */
-    background-image: linear-gradient(to right, #6197A5, #58C3DD);
-    color:#F0F0F0;
-    font-weight: bold;
-};
-

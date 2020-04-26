@@ -12,16 +12,16 @@ import Trending from './Trending';
 
 export class App extends Component {
     render() {
-        return (<html>
-            <div className='header'>
+        return (<>
+            <header>
                 <div className='explord'><li >EXPLORD</li></div>
                 <div className='header-name'><li>A Travelers' Blog</li></div> 
-                <div className='header-text'>
+                <ul className='header-text'>
                     <li>DISCOVER</li>
                     <li>HOME</li>
-                </div>
-            </div>
-            <body id='main-content'>
+                </ul>
+            </header>
+            <main id='main-content'>
                 <div className='featured'><Featured /></div>
                 <div className='mostrecent'><MostRecent/></div>
                 <div className='win-a-trip'><WinATrip /></div>
@@ -30,12 +30,27 @@ export class App extends Component {
                 <div className='india'><India /></div>
                 
                 <div className='trending'><Trending /></div>
-            </body>
+            </main>
             <footer className='footer'>
                 <div className='nav'>
                      <ul id='nav-li'>
                         <li>Follow us</li>
-                        <li className='links'><a>Fb</a><a>Ins</a><a>Tw</a><a>Fb</a><a>Yt</a></li>
+                        
+                            <li className='links'>
+                                <a href='#'>
+                                    <div className='link-icon fb-link'></div>
+                                </a>
+                                <a href='#'>
+                                    <div className='link-icon twitter-link'></div>
+                                </a>
+                                <a href='#'>
+                                    <div className='link-icon insta-link'></div>
+                                </a>
+                                <a href='#'>
+                                    <div className='link-icon yt-link'></div>
+                                </a>
+                            </li>
+                        
                         <br></br>
                         <li>Our portfolio</li>
                         <li>daumantasbanys.lt</li>
@@ -62,7 +77,7 @@ export class App extends Component {
                     </ul>
                 </div>
             </footer>
-            </html>
+            </>
         )
     }
 }
