@@ -1,4 +1,18 @@
+.text-inside{
+    margin: 0px 0px 35px 0px; 
+   
+    padding:20px 45px 20px 45px;
+}
 
+.main-featured {
+    background-image: url('./images/image.svg') ;
+    background-size: cover;
+    opacity: 0.8; 
+    border-radius: 9px;
+    max-width: 1315px;
+    max-height: 269px;
+
+}
 
 .word-featured{
     opacity:0.7;
@@ -60,14 +74,3 @@ h2{
     margin-left: 15px;
 }
 
-.main-featured {
-    border-radius: 9px;
-    padding:20px 45px 20px 45px;
-    background-image: url('./images/image.svg') ;
-    background-repeat: no-repeat;
-    background-size: cover;
-    opacity: 0.8;
-    max-height: 250px;
-    width:auto;
-    margin: 0px 12px 35px 20px; 
-}

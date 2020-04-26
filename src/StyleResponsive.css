@@ -4,10 +4,21 @@
         margin:auto;
         color:#404040;
     }
-    .main-featured{
+    #main-content{
         width:400px;
         height: 300px;
-        background-repeat: no-repeat;
+        grid-template-columns:repeat(auto-fit, 2fr);
+        grid-template-rows: repeat(auto-fit, 0.5fr) ;
+        grid-template-areas: "hd "
+                         "recent "
+                         "trip"
+                         "subs"
+                         "popular"
+                         "india "
+                         "trend "
+                        
+                         ;
+        
         
     }
   }

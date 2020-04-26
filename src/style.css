@@ -2,20 +2,26 @@
 *{
     font-family: acumin-pro, sans-serif;
 }
-html{
-    width: 1180px;
+
+.container{
+    max-width: 1315px;
     margin:auto;
+}
+
+html{
     color:#404040;
 }
 
-
+header {
+    text-align: center;
+    margin:auto;
+}
 
 #main-content {
-    
     background-color: #FCFCFC;
     display: grid;
-    grid-template-columns:repeat(3, 412px);
-    grid-template-rows: repeat(280px, 280px, 280px, 280px, 320px, 320px) ;
+    grid-template-columns:repeat(3, 2fr);
+    grid-template-rows: repeat(auto-fit, 6, 0.5fr) ;
     grid-template-areas: "hd hd hd"
                          "recent recent trip"
                          "recent recent subs"
@@ -114,15 +120,12 @@ footer{
     padding:0 10px 0 10px;
 }
 
-header {
-    text-align: center;
-    margin:0 auto;
-}
+
 
 .header-text li{
     float: right;
     list-style: none;
-    margin: 0 30px 0 0;
+    margin: 0 0 0 30px;
     font-size: 16px;
     font-weight: 200;
 }

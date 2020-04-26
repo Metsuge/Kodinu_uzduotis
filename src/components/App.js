@@ -12,7 +12,7 @@ import Trending from './Trending';
 
 export class App extends Component {
     render() {
-        return (<>
+        return (<div className='container'>
             <header>
                 <div className='explord'><li >EXPLORD</li></div>
                 <div className='header-name'><li>A Travelers' Blog</li></div> 
@@ -77,7 +77,7 @@ export class App extends Component {
                     </ul>
                 </div>
             </footer>
-            </>
+            </div>
         )
     }
 }

@@ -35,7 +35,8 @@
 
 .big-pic{
     background-size: cover;
-    background-image: url('./images/big-pic.svg'); 
+    background-image: url('./images/big-pic.png'); 
+    background-repeat: no-repeat;
     grid-area: bigpic;
     width: 546px;
     height: 519px;
