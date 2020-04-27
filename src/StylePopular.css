@@ -1,12 +1,19 @@
 
 .component-text{
-    padding-top: 7px;
     list-style-type: none;
 }
 
+.component-text ul{
+    padding-left:0px;
+    
+
+}
 
 #popular-full-list{
     margin-bottom: 55px;
+}
+#popular-full-list ul{
+    padding-left:0px ;
 }
 
 #word-full-list{
@@ -33,7 +40,6 @@
 #madag-text{
     font-size: 15px;
     padding-right: 15px;
-    margin-bottom: 20px;
 }
 
 #off-road{
@@ -53,6 +59,7 @@
     height: auto;
     width: auto;
     margin-left:20px;
+    margin-top: 50px;
     border: 0.5px rgb(156, 156, 156) solid;
     border-radius: 9px;
 }

@@ -7,8 +7,10 @@ const Featured = () => {
 
     <div className='main-featured'>
         <div className='text-inside'>
-            <li><button id='button-new-article'>NEW ARTICLE</button></li>
-            <li className='word-published'>Published Yesterday</li>
+            <ul>
+                <li><button id='button-new-article'>NEW ARTICLE</button></li>
+                <li className='word-published'>Published Yesterday</li>
+            </ul>
             <p className='word-featured'>FEATURED</p>
             <p className='text'>
                 <h2>Exploring the Curonian Spit</h2>

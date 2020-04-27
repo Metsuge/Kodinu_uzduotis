@@ -5,6 +5,7 @@
 
 .container{
     max-width: 1315px;
+    min-width:375px ;
     margin:auto;
 }
 
@@ -18,7 +19,7 @@ header {
 }
 
 #main-content {
-    background-color: #FCFCFC;
+    background-color: rgb(255, 255, 255);
     display: grid;
     grid-template-columns:repeat(3, 2fr);
     grid-template-rows: repeat(auto-fit, 6, 0.5fr) ;
@@ -151,6 +152,10 @@ footer{
     }
     .main-featured{
         width:500px;
+    }
+
+    footer{
+        min-width: 500px;
     }
   }
 

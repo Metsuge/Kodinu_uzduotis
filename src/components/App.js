@@ -14,8 +14,8 @@ export class App extends Component {
     render() {
         return (<div className='container'>
             <header>
-                <div className='explord'><li >EXPLORD</li></div>
-                <div className='header-name'><li>A Travelers' Blog</li></div> 
+                <div className='explord'><ul><li >EXPLORD</li></ul></div>
+                <div className='header-name'><ul><li>A Travelers' Blog</li></ul></div> 
                 <ul className='header-text'>
                     <li>DISCOVER</li>
                     <li>HOME</li>

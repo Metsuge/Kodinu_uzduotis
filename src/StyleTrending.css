@@ -1,4 +1,18 @@
 
+
+#reviews-selected{
+    border-style: none;
+    font-size: 25px;
+    color:#5CB1C6;
+    opacity: 0.5;
+    appearance: none;
+    content: '<';
+}
+
+#reviews-selected option{
+    border-bottom: #5CB1C6 1px;
+}
+
 .trend-container{
     display: flex;
    
@@ -72,6 +86,7 @@
     height: auto;
     width: auto;
     margin: 50px 0px 50px 0px;
+    border-radius: 9px;
 }
 
 .word-featured{

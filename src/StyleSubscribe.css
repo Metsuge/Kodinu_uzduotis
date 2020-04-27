@@ -48,7 +48,16 @@
 .main-subscribe {
     border-radius: 9px;
     padding:20px 45px 20px 45px;
-    background-color: rgb(245, 244, 244) ;
-    height: auto;
+    margin-top:0px;
+    background-color: rgb(255, 253, 253);
+    background-repeat: no-repeat;
     opacity:0.8;
+    height: 268px;
+    width: 406px;
+    float: right;
+    box-sizing: border-box;
+}
+
+.main-subscribe ul{
+    padding-left: 0px;
 }

@@ -1,17 +1,15 @@
 .text-inside{
     margin: 0px 0px 35px 0px; 
-   
     padding:20px 45px 20px 45px;
 }
 
 .main-featured {
     background-image: url('./images/image.svg') ;
-    background-size: cover;
+    background-size: 120%;
     opacity: 0.8; 
     border-radius: 9px;
-    max-width: 1315px;
-    max-height: 269px;
-
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .word-featured{
@@ -29,10 +27,7 @@
 
 .text{
     color:#F0F0F0;
-    margin-bottom: 25px;
-    margin-top: 10px;
-    margin-left: 15px;
-    margin-right: 10px;
+    margin-top: 10px 80px 25px 15px;
 }
 
 

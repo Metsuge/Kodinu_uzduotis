@@ -7,8 +7,8 @@ const Subscribe = () => {
     <div className='main-subscribe'>
         
         <p className='text-trip'>
-        <li>Subscribe to travel news</li>
-            Don't miss our weekly newsletter with lots of guides and articles!
+            <ul><li>Subscribe to travel news</li></ul>
+                Don't miss our weekly newsletter with lots of guides and articles!
             <br/><input className='input' type="email" placeholder="Insert your email here..."></input>
         </p>
 
