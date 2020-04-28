@@ -7,10 +7,12 @@ const Trending = () => {
     <div className='main-trending'>
         
       
-            <li id='word-public-trend'>Trending this week in <label className='label' for=''></label>
-                <select id='reviews-selected'>
-                    <option value='travel review'>travel review</option>
-                </select>
+            <li id='word-public-trend'>Trending this week in <label className='label' for='jhbvnbv'></label>
+                <div className='selectedthing'>
+                    <select className='select'>
+                        <option value='travel review'>travel review</option>
+                    </select>
+                </div>
             </li>
         <div className='trend-content-list' >
            <div className='trend-container' >

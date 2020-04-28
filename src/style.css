@@ -79,6 +79,7 @@ footer{
 }
 .links{
     display: inline-flex;
+    padding-bottom: 15px;
 }
 
 .fb-link{
@@ -118,7 +119,7 @@ footer{
 .nav ul{
     float: right;
     list-style: none;
-    padding:0 10px 0 10px;
+    padding:0 100px 0 10px;
 }
 
 

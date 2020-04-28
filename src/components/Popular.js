@@ -7,7 +7,7 @@ const Popular = () => {
     <div className='main-popular'>
         
         <div id='popular-full-list'>
-            <ul><li id='word-public'>Most popular articles</li></ul>
+            <ul><li id='word-popular'>Most popular articles</li></ul>
             
         </div>
         <div className='recent-popular-list' >

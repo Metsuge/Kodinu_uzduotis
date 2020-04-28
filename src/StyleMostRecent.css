@@ -8,11 +8,13 @@
     margin-top: -10px;
     margin-left: -45px;
     margin-right: 20px;
+    background-repeat: no-repeat;
 }
 
 .img1r{
     background-image: url('./images/off-road.svg');
     background-size: cover;
+    background-size: 107%;
 }
 
 .img2r{
@@ -50,6 +52,7 @@
 
 #public-full-list ul{
     padding-left: 0px;
+    padding-bottom: 2px;
 }
 
 #word-full-list{
@@ -65,9 +68,11 @@
     float: left;
     list-style-type:disc;
     font-size: 25px;
+    margin-left: 1px;
+    
 }
 
-#word-public-trend::marker{
+#word-public::marker{
     color:#5CB1C6;
 }
 
@@ -79,7 +84,7 @@
 .recent-content-list{ 
     width:100%;
     padding-bottom: 1px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 .main-recent {

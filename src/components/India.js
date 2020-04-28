@@ -14,8 +14,8 @@ const India = () => {
             <div className='big-pic'>
                 <div className='india-text'>
                     <p className='photo-mem'>PHOTO MEMORIES</p>
-                    <h1>Sightseeing in India</h1>
-                    <p>We have created an album of our last month adventures in the India.</p>
+                    <p className='h1'>Sightseeing in India</p>
+                    <p id='album'>We have created an album of our last month adventures in the India.</p>
                 </div>
             </div>
         </div>

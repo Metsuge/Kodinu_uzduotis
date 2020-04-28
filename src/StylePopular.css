@@ -5,12 +5,13 @@
 
 .component-text ul{
     padding-left:0px;
+    padding-bottom: 14px;
     
 
 }
 
 #popular-full-list{
-    margin-bottom: 55px;
+    padding-bottom: 20px;
 }
 #popular-full-list ul{
     padding-left:0px ;
@@ -26,14 +27,13 @@
     
 }
 
-#word-public{
+#word-popular{
     float: left;
     list-style-type:disc;
     font-size: 25px;
-    margin-left: 35px;
-    
+    margin-left: 25px;
 }
-#word-public::marker{
+#word-popular::marker{
     color:#5CB1C6;
 }
 
@@ -60,7 +60,7 @@
     width: auto;
     margin-left:20px;
     margin-top: 50px;
-    border: 0.5px rgb(156, 156, 156) solid;
+    
     border-radius: 9px;
 }
 
