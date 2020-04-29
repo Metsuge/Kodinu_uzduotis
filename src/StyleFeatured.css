@@ -29,14 +29,11 @@
     color:#F0F0F0;
     margin-top: 10px 80px 25px 15px;
 }
-
-
  
 h2{
     margin-top:0;
     font-weight:400;
 }
-
 
 #button-new-article{
     font-size: smaller;
@@ -54,6 +51,7 @@ h2{
     font-size: small;
     margin-left:20px;
 }
+
 .long-text{
     font-size: 15px;
 }
@@ -68,4 +66,3 @@ h2{
     font-weight: bolder;
     margin-left: 15px;
 }
-
