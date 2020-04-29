@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/testBranch/static/css/main.f9075288.chunk.css",
-    "main.js": "/testBranch/static/js/main.9ffdbed0.chunk.js",
-    "main.js.map": "/testBranch/static/js/main.9ffdbed0.chunk.js.map",
-    "runtime-main.js": "/testBranch/static/js/runtime-main.716b9c2a.js",
-    "runtime-main.js.map": "/testBranch/static/js/runtime-main.716b9c2a.js.map",
-    "static/js/2.21581427.chunk.js": "/testBranch/static/js/2.21581427.chunk.js",
-    "static/js/2.21581427.chunk.js.map": "/testBranch/static/js/2.21581427.chunk.js.map",
-    "index.html": "/testBranch/index.html",
-    "precache-manifest.d4f6105d9c8adc77c9039a4d7c0f8150.js": "/testBranch/precache-manifest.d4f6105d9c8adc77c9039a4d7c0f8150.js",
-    "service-worker.js": "/testBranch/service-worker.js",
-    "static/css/main.f9075288.chunk.css.map": "/testBranch/static/css/main.f9075288.chunk.css.map",
-    "static/js/2.21581427.chunk.js.LICENSE.txt": "/testBranch/static/js/2.21581427.chunk.js.LICENSE.txt",
-    "static/media/StyleMostRecent.css": "/testBranch/static/media/off-road.a45b2dea.svg",
-    "static/media/StyleTrending.css": "/testBranch/static/media/trendingelephant.a85fc6fc.svg",
-    "static/media/StyleIndia.css": "/testBranch/static/media/waterscape.1d5b9caa.svg",
-    "static/media/style.css": "/testBranch/static/media/yt-icon.f5753c36.svg",
-    "static/media/StyleFeatured.css": "/testBranch/static/media/image.bbad8af5.svg",
-    "static/media/StyleWinATrip.css": "/testBranch/static/media/winatrip.7cdf3dc5.svg"
+    "main.css": "/Kodinu_uzduotis/static/css/main.57040872.chunk.css",
+    "main.js": "/Kodinu_uzduotis/static/js/main.9ffdbed0.chunk.js",
+    "main.js.map": "/Kodinu_uzduotis/static/js/main.9ffdbed0.chunk.js.map",
+    "runtime-main.js": "/Kodinu_uzduotis/static/js/runtime-main.a6e76001.js",
+    "runtime-main.js.map": "/Kodinu_uzduotis/static/js/runtime-main.a6e76001.js.map",
+    "static/js/2.21581427.chunk.js": "/Kodinu_uzduotis/static/js/2.21581427.chunk.js",
+    "static/js/2.21581427.chunk.js.map": "/Kodinu_uzduotis/static/js/2.21581427.chunk.js.map",
+    "index.html": "/Kodinu_uzduotis/index.html",
+    "precache-manifest.5844d0ce3441af0fb21c44c8fd608498.js": "/Kodinu_uzduotis/precache-manifest.5844d0ce3441af0fb21c44c8fd608498.js",
+    "service-worker.js": "/Kodinu_uzduotis/service-worker.js",
+    "static/css/main.57040872.chunk.css.map": "/Kodinu_uzduotis/static/css/main.57040872.chunk.css.map",
+    "static/js/2.21581427.chunk.js.LICENSE.txt": "/Kodinu_uzduotis/static/js/2.21581427.chunk.js.LICENSE.txt",
+    "static/media/StyleMostRecent.css": "/Kodinu_uzduotis/static/media/off-road.a45b2dea.svg",
+    "static/media/StyleTrending.css": "/Kodinu_uzduotis/static/media/trendingelephant.a85fc6fc.svg",
+    "static/media/StyleIndia.css": "/Kodinu_uzduotis/static/media/waterscape.1d5b9caa.svg",
+    "static/media/style.css": "/Kodinu_uzduotis/static/media/yt-icon.f5753c36.svg",
+    "static/media/StyleFeatured.css": "/Kodinu_uzduotis/static/media/image.bbad8af5.svg",
+    "static/media/StyleWinATrip.css": "/Kodinu_uzduotis/static/media/winatrip.7cdf3dc5.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.716b9c2a.js",
+    "static/js/runtime-main.a6e76001.js",
     "static/js/2.21581427.chunk.js",
-    "static/css/main.f9075288.chunk.css",
+    "static/css/main.57040872.chunk.css",
     "static/js/main.9ffdbed0.chunk.js"
   ]
 }
