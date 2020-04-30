@@ -1,37 +1,15 @@
-
-.img1india{
-    background-image: url('./images/waterscape.svg');
-    grid-area: pic;
-}
-
-.img2india{
-    background-image: url('./images/desert.svg');
-    grid-area: pic;
-}
-
-.img3india{
-    background-image: url('./images/elephant.svg');
-    grid-area: pic;
-}
-
-.india-img {
-    float: left;
-    padding-right:50px;
-    width: 186px;
-    height: 121px;
-    background-size: cover;
-    padding-bottom: 40px;
-    margin: -15px -45px 0px -45px;
+.pic-list{
+    margin-bottom: 0;
+    margin-top: 20px;
+    padding-left: 20px;
 }
 
 .pic-list li{
     list-style-type: none;
-    padding-top: 20px;
+    margin-top: 0px;
+    margin-bottom: -20px;
 }
 
-.pic-list ul{
-    margin:0
-}
 
 
 .big-pic{

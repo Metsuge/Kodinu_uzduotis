@@ -1,16 +1,18 @@
 import React from 'react';
 import  '../StyleIndia.css';
 
+import waterscape from '../images/waterscape.jpg';
+import desert from '../images/desert.jpg';
+import elephant from '../images/elephant.jpg';
+
 const India = () => {
     return (<>
         <div className='main-india'>
-            <div className='pic-list'>
-                <ul>
-                    <li><div className='india-img img1india'></div></li>
-                    <li><div className='india-img img2india'></div></li>
-                    <li><div className='india-img img3india'></div></li>
+                <ul className='pic-list'>
+                    <li><img src={waterscape}></img></li>
+                    <li><img src={desert}></img></li>
+                    <li><img src={elephant}></img></li>
                 </ul>
-            </div>
             <div className='big-pic'>
                 <div className='india-text'>
                     <p className='photo-mem'>PHOTO MEMORIES</p>
