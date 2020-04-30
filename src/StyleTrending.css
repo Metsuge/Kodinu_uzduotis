@@ -21,14 +21,20 @@
     color:rgb(0, 57, 71);
 }
 
-
 .trend-container{
     display: flex; 
+    margin-right: 30px;
 }
 
 .component-trend{
     padding-top: 7px;
     display: block;
+    padding-left: 20px;
+}
+
+.component-trend img{
+    height: 156px;
+    width: 377px;
 }
 
 .trend-content-list li{
@@ -40,7 +46,7 @@
 }
 
 .trend-text{
-    margin-top: 15px;
+    padding-left: 15px;
 }
 
 #public-full-list{
@@ -69,25 +75,6 @@
     color:#404040;
 }
 
-.img-trend{
-    width: 377px;
-    height: 156px;
-}
-
-.img1{
-    background-image: url('./images/dogyear.svg');
-    background-size: cover;
-}
-
-.img2{
-    background-image: url('./images/trendingelephant.svg');
-    background-size: cover;  
-}
-
-.img3{
-    background-image: url('./images/rubalkhali.svg');
-    background-size: cover;
-}
 
 .main-trending {
     background-color:rgb(255, 253, 253) ;

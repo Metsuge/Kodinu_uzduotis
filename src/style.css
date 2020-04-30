@@ -39,10 +39,10 @@ header {
 }
 
 footer{
-    margin:0 auto;
     flex-shrink: 0;
     bottom: 0;
     height: 2.5rem;
+    margin: 40px 0 0 0;
 }
 
 .featured {
@@ -113,6 +113,7 @@ footer{
     opacity: 1;
     
 }
+
 #footer-left{
     float:left;
 }
@@ -125,8 +126,6 @@ footer{
     color:#5CB1C6;
     font-size: 25px;
 }
-
-
 
 .footer li{
     padding: 2px 8px 2px 8px;
@@ -143,7 +142,6 @@ footer{
     list-style: none;
     padding:0 100px 0 10px;
 }
-
 
 .nav a{
     color:inherit;

@@ -43,6 +43,7 @@
     background-image: linear-gradient(to right, #6197A5, #58C3DD);
     color:#F0F0F0;
     font-weight: bold;
+    cursor:pointer;
 }
 
 .main-subscribe {

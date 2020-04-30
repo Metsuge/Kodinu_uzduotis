@@ -4,6 +4,8 @@ import '../StyleMostRecent.css';
 import offroad from '../images/off-road.jpg';
 import architect from '../images/architect.jpg';
 import iceland from '../images/iceland.jpg';
+import arrow_right from '../images/arrow_right.jpg'
+
 
 const MostRecent = () => {
     return(<>
@@ -13,7 +15,7 @@ const MostRecent = () => {
         <div id='public-full-list'>
             <ul>
                 <li id='word-public'>Most recent publications</li>
-                <li id='word-full-list'>SEE FULL LIST</li>
+                <a href="#"><li id='word-full-list'>SEE FULL LIST<img src={arrow_right}></img></li></a>
             </ul>
         </div>
         <div className='recent-content-list' >

@@ -10,7 +10,7 @@ const WinATrip = () => {
         <h1>Win a trip to USA</h1>
             Participate in the contest and you will be eligible to win a 14-day trip to United States of America with personal guide.
         </p>
-        <button className='button-entry'>Entry now</button>
+        <button type='button' className='button-entry'>Entry now</button>
        
     </div>
         </>

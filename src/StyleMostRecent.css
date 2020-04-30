@@ -38,6 +38,11 @@
     opacity: 0.8;
 }
 
+#word-full-list img{
+    padding-left: 9px;
+    margin-bottom:-1px;
+}
+
 #word-public{
     float: left;
     list-style-type:disc;

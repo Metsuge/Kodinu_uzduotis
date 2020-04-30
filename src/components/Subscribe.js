@@ -12,7 +12,7 @@ const Subscribe = () => {
             <br/><input className='input' type="email" placeholder="Insert your email here..."></input>
         </p>
 
-        <button className='button-subscribe'>Subscribe</button>
+        <button  type='button' className='button-subscribe'>Subscribe</button>
                
            
     

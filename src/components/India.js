@@ -21,10 +21,7 @@ const India = () => {
                 </div>
             </div>
         </div>
-
-
     </>
-        
     )
 }
 

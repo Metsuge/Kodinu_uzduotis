@@ -10,8 +10,6 @@
     margin-bottom: -20px;
 }
 
-
-
 .big-pic{
     background-size: cover;
     background-image: url('./images/big-pic.png'); 
@@ -23,13 +21,13 @@
     margin-top: -10px;
     position: relative;
 }
+
 .india-text{
     bottom: 0;
     left: 50px;
     position: absolute;
     margin:0 30px 50px 0;
 }
-
 
 .photo-mem{
     opacity:0.5;
