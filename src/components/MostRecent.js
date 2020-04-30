@@ -1,6 +1,10 @@
 import React from 'react';
 import '../StyleMostRecent.css';
 
+import offroad from '../images/off-road.jpg';
+import architect from '../images/architect.jpg';
+import iceland from '../images/iceland.jpg';
+
 const MostRecent = () => {
     return(<>
 
@@ -13,7 +17,7 @@ const MostRecent = () => {
             </ul>
         </div>
         <div className='recent-content-list' >
-            <div className='img-recent img1r' ></div>
+            <img src={offroad}></img>
                 <ul className='component-text-recent'>
                     <li id='reviews'>TRAVEL REVIEWS</li>
                     <li id='off-road'>Off-road adventures in Madagascar</li>
@@ -22,7 +26,7 @@ const MostRecent = () => {
         </div>
         
         <div className='recent-content-list' >
-            <div className='img-recent img2r' ></div>
+            <img src={architect}></img>
                 <ul className='component-text-recent'>
                     <li id='reviews'>TRIP SUGGESTIONS</li>
                     <li id='off-road'>Perfect places to visit for Architecture enthusiasts</li>
@@ -31,8 +35,9 @@ const MostRecent = () => {
         </div>
 
         <div className='recent-content-list' >
-            <div className='img-recent img3r' ></div>
+            <img src={iceland}></img>
                 <ul className='component-text-recent'>
+                    
                     <li id='reviews'>TRAVEL REVIEWS</li>
                     <li id='off-road'>The most beautiful night in Iceland</li>
                     <li id='madag-text'>After days of cold, cloud and rain we packed up for our last night in Iceland. We had come to meet Aurora but as many will know it's not guaranteed.</li>

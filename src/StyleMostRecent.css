@@ -1,31 +1,5 @@
 
 
-.img-recent{
-    float: left;
-    padding-right:50px;
-    width: 145px;
-    height: 145px;
-    margin-top: -10px;
-    margin-left: -45px;
-    margin-right: 20px;
-    background-repeat: no-repeat;
-}
-
-.img1r{
-    background-image: url('./images/off-road.svg');
-    background-size: cover;
-    background-size: 107%;
-}
-
-.img2r{
-    background-image: url('./images/architect.svg');
-    background-size: cover;
-}
-
-.img3r{
-    background-image: url('./images/iceland.svg');
-    background-size: cover;
-}
 
 #madag-text{
     font-size: 15px;
@@ -79,16 +53,25 @@
 .component-text-recent{
     padding: 7px 30px 0 0;
     margin: 10px 0 16px 0;
+   
 }
 
 .recent-content-list{ 
     width:100%;
     padding-bottom: 1px;
-    margin-bottom: 40px;
+    margin-bottom: 5px;
+    display: inline-flex;
+    min-width: 100%;
+    margin-left: -40px;
 }
 
+.recent-content-list img{
+    object-fit: cover;
+    padding-right: 20px;
+    flex-shrink: 0
+}
 .main-recent {
-    padding:20px 30px 36px 70px;
+    padding:20px 30px 36px 0px;
     background-color:rgb(255, 253, 253) ;
     height: auto;
     width: auto;
