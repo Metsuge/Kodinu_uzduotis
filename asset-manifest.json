@@ -1,33 +1,36 @@
 {
   "files": {
-    "main.css": "/Kodinu_uzduotis/static/css/main.46b87315.chunk.css",
-    "main.js": "/Kodinu_uzduotis/static/js/main.d77f9860.chunk.js",
-    "main.js.map": "/Kodinu_uzduotis/static/js/main.d77f9860.chunk.js.map",
+    "main.css": "/Kodinu_uzduotis/static/css/main.420d0fda.chunk.css",
+    "main.js": "/Kodinu_uzduotis/static/js/main.36fea0e5.chunk.js",
+    "main.js.map": "/Kodinu_uzduotis/static/js/main.36fea0e5.chunk.js.map",
     "runtime-main.js": "/Kodinu_uzduotis/static/js/runtime-main.a6e76001.js",
     "runtime-main.js.map": "/Kodinu_uzduotis/static/js/runtime-main.a6e76001.js.map",
-    "static/js/2.1448776f.chunk.js": "/Kodinu_uzduotis/static/js/2.1448776f.chunk.js",
-    "static/js/2.1448776f.chunk.js.map": "/Kodinu_uzduotis/static/js/2.1448776f.chunk.js.map",
+    "static/js/2.54ad861a.chunk.js": "/Kodinu_uzduotis/static/js/2.54ad861a.chunk.js",
+    "static/js/2.54ad861a.chunk.js.map": "/Kodinu_uzduotis/static/js/2.54ad861a.chunk.js.map",
     "index.html": "/Kodinu_uzduotis/index.html",
-    "precache-manifest.199a1e7dab1f97fda8807f2e0484514b.js": "/Kodinu_uzduotis/precache-manifest.199a1e7dab1f97fda8807f2e0484514b.js",
+    "precache-manifest.6c5a59a78f0f3d83342548451128429c.js": "/Kodinu_uzduotis/precache-manifest.6c5a59a78f0f3d83342548451128429c.js",
     "service-worker.js": "/Kodinu_uzduotis/service-worker.js",
-    "static/css/main.46b87315.chunk.css.map": "/Kodinu_uzduotis/static/css/main.46b87315.chunk.css.map",
-    "static/js/2.1448776f.chunk.js.LICENSE.txt": "/Kodinu_uzduotis/static/js/2.1448776f.chunk.js.LICENSE.txt",
+    "static/css/main.420d0fda.chunk.css.map": "/Kodinu_uzduotis/static/css/main.420d0fda.chunk.css.map",
+    "static/js/2.54ad861a.chunk.js.LICENSE.txt": "/Kodinu_uzduotis/static/js/2.54ad861a.chunk.js.LICENSE.txt",
     "static/media/architect.jpg": "/Kodinu_uzduotis/static/media/architect.0aec3e53.jpg",
-    "static/media/StyleTrending.css": "/Kodinu_uzduotis/static/media/trendingelephant.a85fc6fc.svg",
+    "static/media/StyleTrending.css": "/Kodinu_uzduotis/static/media/arrow-down.e791260d.svg",
     "static/media/StyleIndia.css": "/Kodinu_uzduotis/static/media/big-pic.52da581a.png",
     "static/media/desert.jpg": "/Kodinu_uzduotis/static/media/desert.52703aa8.jpg",
+    "static/media/dogyear.jpg": "/Kodinu_uzduotis/static/media/dogyear.c8b81b90.jpg",
     "static/media/elephant.jpg": "/Kodinu_uzduotis/static/media/elephant.00764c43.jpg",
     "static/media/style.css": "/Kodinu_uzduotis/static/media/yt-icon.f5753c36.svg",
     "static/media/iceland.jpg": "/Kodinu_uzduotis/static/media/iceland.f9692bf3.jpg",
     "static/media/StyleFeatured.css": "/Kodinu_uzduotis/static/media/image.bbad8af5.svg",
     "static/media/off-road.jpg": "/Kodinu_uzduotis/static/media/off-road.c2355ca8.jpg",
+    "static/media/rubalkhali.jpg": "/Kodinu_uzduotis/static/media/rubalkhali.cd4ea61f.jpg",
+    "static/media/trendingelephant.jpg": "/Kodinu_uzduotis/static/media/trendingelephant.a0c27663.jpg",
     "static/media/waterscape.jpg": "/Kodinu_uzduotis/static/media/waterscape.7b423732.jpg",
     "static/media/StyleWinATrip.css": "/Kodinu_uzduotis/static/media/winatrip.7cdf3dc5.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a6e76001.js",
-    "static/js/2.1448776f.chunk.js",
-    "static/css/main.46b87315.chunk.css",
-    "static/js/main.d77f9860.chunk.js"
+    "static/js/2.54ad861a.chunk.js",
+    "static/css/main.420d0fda.chunk.css",
+    "static/js/main.36fea0e5.chunk.js"
   ]
 }

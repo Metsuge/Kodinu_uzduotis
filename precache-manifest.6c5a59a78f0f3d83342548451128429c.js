@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b24216f22a307130c5dcc5ada23b860",
+    "revision": "2addda9b2e328c753e722da2610e2d22",
     "url": "/Kodinu_uzduotis/index.html"
   },
   {
-    "revision": "e698ecaa042a93dcc3be",
-    "url": "/Kodinu_uzduotis/static/css/main.46b87315.chunk.css"
+    "revision": "c6ffa018db921d7b99ac",
+    "url": "/Kodinu_uzduotis/static/css/main.420d0fda.chunk.css"
   },
   {
-    "revision": "3a1caa2d990f556ecc8d",
-    "url": "/Kodinu_uzduotis/static/js/2.1448776f.chunk.js"
+    "revision": "283da99a980833ec5d10",
+    "url": "/Kodinu_uzduotis/static/js/2.54ad861a.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Kodinu_uzduotis/static/js/2.1448776f.chunk.js.LICENSE.txt"
+    "url": "/Kodinu_uzduotis/static/js/2.54ad861a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e698ecaa042a93dcc3be",
-    "url": "/Kodinu_uzduotis/static/js/main.d77f9860.chunk.js"
+    "revision": "c6ffa018db921d7b99ac",
+    "url": "/Kodinu_uzduotis/static/js/main.36fea0e5.chunk.js"
   },
   {
     "revision": "88172c1d53ed1e62b35f",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Kodinu_uzduotis/static/media/desert.52703aa8.jpg"
   },
   {
-    "revision": "5fed4364bf5defce0073ad644f1b734f",
-    "url": "/Kodinu_uzduotis/static/media/dogyear.5fed4364.svg"
+    "revision": "c8b81b90532eaf7befd75ac52de3fca4",
+    "url": "/Kodinu_uzduotis/static/media/dogyear.c8b81b90.jpg"
   },
   {
     "revision": "00764c43dd0e817d332100716899cc3b",
@@ -68,12 +68,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Kodinu_uzduotis/static/media/off-road.c2355ca8.jpg"
   },
   {
-    "revision": "0fe3c42ae249aa143cc51227e46ea8cf",
-    "url": "/Kodinu_uzduotis/static/media/rubalkhali.0fe3c42a.svg"
+    "revision": "cd4ea61f05e5a27040a558ccb626a5c2",
+    "url": "/Kodinu_uzduotis/static/media/rubalkhali.cd4ea61f.jpg"
   },
   {
-    "revision": "a85fc6fc6737d0ce8842ac3b1fde587b",
-    "url": "/Kodinu_uzduotis/static/media/trendingelephant.a85fc6fc.svg"
+    "revision": "a0c276632462b32f46d54145e309de03",
+    "url": "/Kodinu_uzduotis/static/media/trendingelephant.a0c27663.jpg"
   },
   {
     "revision": "4f1411ee53e8679b0166d18203d3551e",
