@@ -85,7 +85,7 @@ footer{
 .copy{
     display: inline-flex;
     padding-bottom: 15px;
-    margin-left: 30px;
+    margin-left: -20px;
 }
 
 .fb-link{
@@ -168,18 +168,21 @@ footer{
     cursor: pointer;
 }
 
-
 .header-name li {
     float: left;
     list-style: none;
-    margin: 0 30px 0 60px;
+    margin: 0 25x 0 60px;
 }
 
-.explord li {
-    list-style-type:disc;
+.explord img{
     float: left; 
-    margin: 0 40px 0 0;
-    font-weight: 600;
+    margin: 6px 40px 0 0;
+    width: 114px;
+    height: 19px;
+}
+
+.explord{
+    margin-left: 12px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -196,3 +199,4 @@ footer{
         min-width: 500px;
     }
   }
+

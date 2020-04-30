@@ -9,12 +9,13 @@ import Popular from './Popular';
 import India from './India';
 import Trending from './Trending';
 
+import logo from '../images/logo.jpg'
 
 export class App extends Component {
     render() {
         return (<div className='container'>
             <header>
-                <div className='explord'><ul><li >EXPLORD</li></ul></div>
+                <div className='explord'><img src={logo}></img></div>
                 <div className='header-name'><ul><li>A Travelers' Blog</li></ul></div> 
                 <ul className='header-text'>
                     <li>DISCOVER</li>
@@ -69,11 +70,12 @@ export class App extends Component {
                         <li><a href='#'>Search</a></li>
                         <li><a href='#'>Upload</a></li>
                     </ul>
-                    <ul id='footer-left'>
-                        <li id='logo'>
-                            <span style={{ fontSize:'20px', color:'#404040'}} ><span style={{fontWeight:'bold'}}>EXP</span>LORD</span>
+                    
+                        
+                            <div className='explord'><img src={logo}></img></div>
                             <span className='copy'>&copy; 2018</span>
-                        </li><br/>
+                        <br/>
+                        <ul id='footer-left'>
                         <li>A Travelers' Blog</li>
                         <li className='footer-text'>Our main focus is to provide high quality, objective,<br/>
                         and informative travelling content from over the world.</li>
