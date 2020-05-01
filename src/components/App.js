@@ -40,7 +40,6 @@ export class App extends Component {
                 <div className='nav'>
                      <ul id='nav-li'>
                         <li>Follow us</li>
-                        
                             <li className='links'>
                                 <a href='#'>
                                     <img src={fblogo} className='link-icon fb-link'></img>
@@ -55,7 +54,6 @@ export class App extends Component {
                                     <img src={yt} className='link-icon yt-link'></img>
                                 </a>
                             </li>
-                        
                         <br></br>
                         <li><a href='#'>Our portfolio</a></li>
                         <li><a>daumantasbanys.lt</a></li>
@@ -74,12 +72,13 @@ export class App extends Component {
                         <li><a href='#'>Search</a></li>
                         <li><a href='#'>Upload</a></li>
                     </ul>
-                    
                         
+                    <ul id='footer-left'>
+                        <li>
                             <div className='explord'><img alt='logo' src={logo}></img></div>
                             <span className='copy'>&copy; 2018</span>
-                        <br/>
-                        <ul id='footer-left'>
+                            <br/>
+                        </li>
                         <li>A Travelers' Blog</li>
                         <li className='footer-text'>Our main focus is to provide high quality, objective,<br/>
                         and informative travelling content from over the world.</li>

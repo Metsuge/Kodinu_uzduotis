@@ -2,14 +2,16 @@
     margin: 0px 0px 35px 0px; 
     padding:20px 45px 20px 45px;
     position: relative;
+    width: 90%;
 }
 
-/* .main-featured {
-    
-} */
+.main-featured{
+    width: 90%;
+}
 
 .img-featured{
     position: absolute;
+    width: 90%;
 }
 
 .word-featured{
@@ -53,7 +55,7 @@ h2{
 }
 
 .long-text{
-    font-size: 15px;
+    font-size: 1%5px;
 }
 
 .button-article{
@@ -65,4 +67,17 @@ h2{
     color:#F0F0F0;
     font-weight: bolder;
     margin-left: 15px;
+}
+
+@media only screen and (max-width: 400px) {
+    .img-featured{
+        position: absolute;
+        height: 290px;
+        width: 89%;
+        
+    }
+
+    .text-inside{
+        width: 70%;
+    }
 }
