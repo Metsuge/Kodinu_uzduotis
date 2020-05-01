@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2addda9b2e328c753e722da2610e2d22",
+    "revision": "eefd06f5ec9c3bc9f1b1e7440a558ae2",
     "url": "/Kodinu_uzduotis/index.html"
   },
   {
-    "revision": "c6ffa018db921d7b99ac",
-    "url": "/Kodinu_uzduotis/static/css/main.420d0fda.chunk.css"
+    "revision": "8ea387a560f214f9aaab",
+    "url": "/Kodinu_uzduotis/static/css/main.3619f545.chunk.css"
   },
   {
-    "revision": "283da99a980833ec5d10",
-    "url": "/Kodinu_uzduotis/static/js/2.54ad861a.chunk.js"
+    "revision": "25907b8ff8b396cefeb2",
+    "url": "/Kodinu_uzduotis/static/js/2.2103607c.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Kodinu_uzduotis/static/js/2.54ad861a.chunk.js.LICENSE.txt"
+    "url": "/Kodinu_uzduotis/static/js/2.2103607c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6ffa018db921d7b99ac",
-    "url": "/Kodinu_uzduotis/static/js/main.36fea0e5.chunk.js"
+    "revision": "8ea387a560f214f9aaab",
+    "url": "/Kodinu_uzduotis/static/js/main.c8aae7aa.chunk.js"
   },
   {
     "revision": "88172c1d53ed1e62b35f",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Kodinu_uzduotis/static/media/arrow-down.e791260d.svg"
   },
   {
-    "revision": "52da581aafc5a0ed0823ecb812c75ffb",
-    "url": "/Kodinu_uzduotis/static/media/big-pic.52da581a.png"
+    "revision": "010985945497b9ec051063f2964f232c",
+    "url": "/Kodinu_uzduotis/static/media/bigpic.01098594.jpg"
   },
   {
     "revision": "52703aa824c20cef0aa9125d1297cba0",
