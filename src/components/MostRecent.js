@@ -15,11 +15,11 @@ const MostRecent = () => {
         <div id='public-full-list'>
             <ul>
                 <li id='word-public'>Most recent publications</li>
-                <a href="#"><li id='word-full-list'>SEE FULL LIST<img src={arrow_right}></img></li></a>
+                <a href="#"><li id='word-full-list'>SEE FULL LIST<img alt='full list' src={arrow_right}></img></li></a>
             </ul>
         </div>
         <div className='recent-content-list' >
-            <img src={offroad}></img>
+            <img alt='Off-road adventures in Madagascar' src={offroad}></img>
                 <ul className='component-text-recent'>
                     <li id='reviews'>TRAVEL REVIEWS</li>
                     <li id='off-road'>Off-road adventures in Madagascar</li>
@@ -28,7 +28,7 @@ const MostRecent = () => {
         </div>
         
         <div className='recent-content-list' >
-            <img src={architect}></img>
+            <img alt='Perfect places to visit for Architecture enthusiasts' src={architect}></img>
                 <ul className='component-text-recent'>
                     <li id='reviews'>TRIP SUGGESTIONS</li>
                     <li id='off-road'>Perfect places to visit for Architecture enthusiasts</li>
@@ -37,7 +37,7 @@ const MostRecent = () => {
         </div>
 
         <div className='recent-content-list' >
-            <img src={iceland}></img>
+            <img alt='The most beautiful night in Iceland' src={iceland}></img>
                 <ul className='component-text-recent'>
                     
                     <li id='reviews'>TRAVEL REVIEWS</li>

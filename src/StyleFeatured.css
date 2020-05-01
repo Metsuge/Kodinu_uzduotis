@@ -1,15 +1,15 @@
 .text-inside{
     margin: 0px 0px 35px 0px; 
     padding:20px 45px 20px 45px;
+    position: relative;
 }
 
-.main-featured {
-    background-image: url('./images/image.svg') ;
-    background-size: 120%;
-    opacity: 0.8; 
-    border-radius: 9px;
-    background-position: center;
-    background-repeat: no-repeat;
+/* .main-featured {
+    
+} */
+
+.img-featured{
+    position: absolute;
 }
 
 .word-featured{

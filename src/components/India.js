@@ -10,12 +10,12 @@ const India = () => {
     return (<>
         <div className='main-india'>
                 <ul className='pic-list'>
-                    <li><img src={waterscape}></img></li>
-                    <li><img src={desert}></img></li>
-                    <li><img src={elephant}></img></li>
+                    <li><img alt='Sightseeing in India' src={waterscape}></img></li>
+                    <li><img alt='Sightseeing in India' src={desert}></img></li>
+                    <li><img alt='Sightseeing in India' src={elephant}></img></li>
                 </ul>
             <div className='big-pic'>
-                <img src={bigpic}></img>
+                <img img alt='Sightseeing in India' src={bigpic}></img>
                 <div className='india-text'>
                     <p className='photo-mem'>PHOTO MEMORIES</p>
                     <p className='h1'>Sightseeing in India</p>

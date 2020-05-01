@@ -10,12 +10,16 @@ import India from './India';
 import Trending from './Trending';
 
 import logo from '../images/logo.jpg'
+import fblogo from '../images/fblogo.png';
+import twitter from '../images/twitter.png';
+import instagram from '../images/instagram.png';
+import yt from '../images/yt.png';
 
 export class App extends Component {
     render() {
         return (<div className='container'>
             <header>
-                <div className='explord'><img src={logo}></img></div>
+                <div className='explord'><img alt='logo' src={logo}></img></div>
                 <div className='header-name'><ul><li>A Travelers' Blog</li></ul></div> 
                 <ul className='header-text'>
                     <li>DISCOVER</li>
@@ -39,16 +43,16 @@ export class App extends Component {
                         
                             <li className='links'>
                                 <a href='#'>
-                                    <div className='link-icon fb-link'></div>
+                                    <img src={fblogo} className='link-icon fb-link'></img>
                                 </a>
                                 <a href='#'>
-                                    <div className='link-icon twitter-link'></div>
+                                    <img src={twitter} className='link-icon twitter-link'></img>
                                 </a>
                                 <a href='#'>
-                                    <div className='link-icon insta-link'></div>
+                                    <img src={instagram} className='link-icon insta-link'></img>
                                 </a>
                                 <a href='#'>
-                                    <div className='link-icon yt-link'></div>
+                                    <img src={yt} className='link-icon yt-link'></img>
                                 </a>
                             </li>
                         
@@ -72,7 +76,7 @@ export class App extends Component {
                     </ul>
                     
                         
-                            <div className='explord'><img src={logo}></img></div>
+                            <div className='explord'><img alt='logo' src={logo}></img></div>
                             <span className='copy'>&copy; 2018</span>
                         <br/>
                         <ul id='footer-left'>

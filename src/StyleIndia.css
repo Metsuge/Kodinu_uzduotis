@@ -25,7 +25,6 @@
     padding-left: 20px;
 }
 
-
 .india-text{
     bottom: 0;
     left: 50px;
@@ -64,4 +63,13 @@
     display: flex;
 }
 
+@media only screen and (max-width: 600px) {
+    
+    .big-pic img{
+        max-width: 50%x;
+        max-height: 50%;
+        margin-left: 0px;
+        padding-left: 20px;
+    }
 
+}

@@ -2,10 +2,13 @@ import React from 'react';
 import '../StyleFeatured.css';
 import '../StyleResponsive.css';
 
+import featured from '../images/featured.jpg'
+
 const Featured = () => {
     return(<>
 
     <div className='main-featured'>
+        <img className='img-featured' src={featured}></img>
         <div className='text-inside'>
             <ul>
                 <li><button id='button-new-article'>NEW ARTICLE</button></li>
