@@ -4,6 +4,7 @@ import  '../StyleIndia.css';
 import waterscape from '../images/waterscape.jpg';
 import desert from '../images/desert.jpg';
 import elephant from '../images/elephant.jpg';
+import bigpic from '../images/bigpic.jpg'
 
 const India = () => {
     return (<>
@@ -14,6 +15,7 @@ const India = () => {
                     <li><img src={elephant}></img></li>
                 </ul>
             <div className='big-pic'>
+                <img src={bigpic}></img>
                 <div className='india-text'>
                     <p className='photo-mem'>PHOTO MEMORIES</p>
                     <p className='h1'>Sightseeing in India</p>

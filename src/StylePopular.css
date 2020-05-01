@@ -54,13 +54,12 @@
 }
 
 .main-popular {
-    padding:20px 30px 0px 30px;
+    padding:20px 30px 0px 0px;
     background-color:rgb(255, 253, 253) ;
     height: auto;
     width: auto;
-    margin-left:20px;
     margin-top: 50px;
-    
+    margin-left: 10px;
     border-radius: 9px;
 }
 
